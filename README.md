@@ -1,8 +1,5 @@
-# Typescript NodeJS simple template
+# GraphQL basic server template
 
-One small step for a man, a giant leap for Mankind...
+This is my Express GraphQL server template.
 
-### TO DO
-
-- Implement server to secure transactions
-- Build a cluster for redondancy
+You can clone and run the server to play with the GraphiQL interface.
